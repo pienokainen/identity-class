@@ -6,4 +6,4 @@ I looked at the problem as a huge possibility for regex. Given specific path (lo
 
 My program has separate Client class, which is the main class of the program. It gives the user to opportunity to play as an app which is making a call for the request identifier. Normally these URI's would come somewhere else ofcourse.
 
-The biggest challenge I faced during the development was the logic behind splitting and validation. If I had more time, I would improve the logic to be more simpler and straight-forward.
+The biggest challenge I faced during the development was the logic behind splitting and validation. If I had more time, I would improve the logic to be more simpler and straight-forward. The solution is also extremely procedural-heavy. If I had more time and mental resources, I would have made the program more object-oriented and I had already plans on transforming it to more object-oriented but was not able to perform the changes.
